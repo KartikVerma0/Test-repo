@@ -1,0 +1,19 @@
+{
+  "name": "test-repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KartikVerma0/Test-repo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KartikVerma0/Test-repo/issues"
+  },
+  "homepage": "https://github.com/KartikVerma0/Test-repo#readme"
+}
