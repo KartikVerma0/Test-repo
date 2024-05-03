@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/KartikVerma0/Test-repo/issues"
   },
-  "homepage": "https://github.com/KartikVerma0/Test-repo#readme"
+  "homepage": "https://github.com/KartikVerma0/Test-repo#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
 }
